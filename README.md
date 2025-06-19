@@ -10,7 +10,7 @@
 - 🤖 Personal AI Assistant (Jarvis-style)
 
 🌱 I’m currently learning:
-- 📱 React Native for building mobile apps
+- 📱 React for building web apps
 - 🔬 AI/ML concepts to integrate with real-world apps
 - 🧪 Testing, Deployment & Optimization
 
