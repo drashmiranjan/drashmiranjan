@@ -20,7 +20,7 @@
 - Crack Python Developer roles at top tech firms
 
 📫 Reach me at:
-- 📧 Email: rashmi@example.com *(replace this)*
+- 📧 Email: drashmiranjan36@gmail.com
 - 🔗 LinkedIn: [Rashmi Ranjan Das](https://www.linkedin.com/in/rashmiranjan-das-89b914245/)
 
 ---
