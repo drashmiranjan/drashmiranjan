@@ -8,6 +8,7 @@
 - 📝 Fullstack To-Do App with Auth & CRUD
 - 💸 Smart Expense Tracker with AI Insights
 - 🤖 Personal AI Assistant (Jarvis-style)
+- 🛠️ **ServiceBay** – Technician booking platform with real-time status tracking
 
 🌱 I’m currently learning:
 - 📱 React for building web apps
@@ -39,10 +40,20 @@
 
 ### 🚀 Featured Projects
 
-- 🧠 [AI Animal Health Chatbot](https://github.com/DRashmiRanjan/ai-animal-health-chatbot)
-- ✅ [Fullstack To-Do App](https://github.com/DRashmiRanjan/fullstack-todo-app)
-- 💸 [Smart Expense Tracker with AI](https://github.com/DRashmiRanjan/ai-expense-tracker)
-- 🤖 [Personal AI Jarvis Assistant](https://github.com/DRashmiRanjan/personal-ai-jarvis)
+- 🛠️ **[ServiceBay](https://github.com/DRashmiRanjan/servicebay)**  
+  A fullstack service booking platform connecting users with local technicians. Features include real-time job status updates (Pending, Accepted, Completed), ratings & reviews, authentication, and role-based dashboards. Built using **React.js**, **Django**, and **TailwindCSS**.
+
+- 🧠 **[AI Animal Health Chatbot](https://github.com/DRashmiRanjan/ai-animal-health-chatbot)**  
+  Upload animal images to get AI-driven health suggestions and medicine recommendations using computer vision models. Built using Django and integrated ML.
+
+- ✅ **[Fullstack To-Do App](https://github.com/DRashmiRanjan/fullstack-todo-app)**  
+  Task manager with user authentication and full CRUD operations using Django and React.js.
+
+- 💸 **[Smart Expense Tracker with AI](https://github.com/DRashmiRanjan/ai-expense-tracker)**  
+  Track expenses and receive smart financial insights. Built with Django backend and basic AI for trend analysis.
+
+- 🤖 **[Personal AI Jarvis Assistant](https://github.com/DRashmiRanjan/personal-ai-jarvis)**  
+  A local AI assistant with voice commands, system control, weather updates, and more. Built in Python.
 
 ---
 
