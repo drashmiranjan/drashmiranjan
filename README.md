@@ -37,7 +37,12 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 
 ---
+<!-- Snake Game Repo View -->
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  
+</div>
 ### 🚀 Featured Projects
 
 - 🛠️ **[ServiceBay](https://github.com/DRashmiRanjan/servicebay)**  
