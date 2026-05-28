@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rashmi Ranjan Das</h1>
-<h3 align="center">💻 Python & Django Developer | 🧠 AI Enthusiast | 💡 Fullstack Project Builder</h3>
+<h3 align="center">💻 Python Developer | 🧠 AI Enthusiast | 💡 Fullstack Project Builder</h3>
 
 ---
 
